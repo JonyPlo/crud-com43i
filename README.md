@@ -16,7 +16,8 @@ Este es un proyecto de una empresa que vende componentes para pc llamado **Compr
 - Tener internet
 - Tener git instalado
 
-> **IMPORTANTE**: Para que funcione el proyecto en su PC debe cumplir con todos los requisitos
+> [!IMPORTANT]
+> Para que funcione el proyecto en su PC debe cumplir con todos los requisitos
 
 ## Como clonar el repositorio 💻
 
